@@ -91,6 +91,8 @@ The overall funnel showed a significant reduction in users as they progressed to
 | Add Payment Info | 2.09% |
 | Purchase | **1.25%** |
 
+![Overall Conversion Funnel](funnel_conversion_overall.png)
+
 The largest deterioration occurs before users reach the **Add to Cart** stage.
 
 While approximately **76.90%** of first visitors interact with a product or promotion, only **11.01%** progress to adding an item to their cart.
@@ -115,6 +117,8 @@ Purchase conversion varied considerably across markets.
 | Ecuador | **0.00%** |
 | Colombia | **0.00%** |
 | Paraguay | **0.00%** |
+
+![Purchase Conversion by Country](funnel_conversion_by_country.png)
 
 ### Key observation
 
@@ -148,6 +152,8 @@ Country-level results show that retention declines substantially as more time pa
 | Colombia | 84.5% | 52.0% | 21.8% | 1.6% |
 | Chile | 83.7% | 51.8% | 22.1% | 1.7% |
 | Uruguay | 86.1% | 48.8% | 23.0% | 2.5% |
+
+![Retention by Country](retention_by_country.png)
 
 The results suggest strong initial engagement across several markets but a substantial decline in active users by D28.
 
